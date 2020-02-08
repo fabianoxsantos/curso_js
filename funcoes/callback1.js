@@ -1,6 +1,6 @@
-const fabricantes = ['Mercedes', 'Audi', 'BMW']
+const fabricantes = ['Mercedes', 'Audi', 'Jeep', 'GM']
 
-function imprimir(nome, indice) {
+function imprimir(nome, indice){
     console.log(`${indice + 1}. ${nome}`)
 }
 
