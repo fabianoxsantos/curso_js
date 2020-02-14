@@ -1,3 +1,3 @@
-this.ola = 'Olá Mundo'
+this.ola = 'Olá'
 exports.bemVindo = 'Bem Vindo'
-module.exports.atelog = 'Até logo'
+module.exports.ateLogo = 'Até Logo'
